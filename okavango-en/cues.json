@@ -1,0 +1,14 @@
+{
+  "duck_db": -14,
+  "cues": [
+    { "t": 0.0, "file": "LIB:transitions/swoosh_flying.wav", "gain": -17, "max": 1.2, "fade": 0.5, "note": "open on Africa" },
+    { "t": "word:massive", "file": "LIB:impacts/stomp.wav", "gain": -21, "max": 0.6, "note": "massive reveal" },
+    { "t": "word:disappears", "file": "LIB:transitions/sweep_fast.wav", "gain": -18, "align": "peak", "max": 0.8, "note": "disappears sweep" },
+    { "t": "word:desert", "file": "LIB:nature/desert.wav", "gain": -25, "max": 2.2, "fade": 0.8, "note": "desert wind starts" },
+    { "t": "word:Okavango", "file": "LIB:pops/pop_light_whoosh.wav", "gain": -17, "max": 0.6, "note": "river name reveal" },
+    { "t": "word:Kalahari", "file": "LIB:transitions/swoosh_flying.wav", "gain": -20, "max": 1.0, "note": "dive into Kalahari" },
+    { "t": "word:deltas", "file": "LIB:water/bubble_single.wav", "gain": -18, "max": 0.5, "note": "delta bubble" },
+    { "t": "word:middle", "file": "LIB:pops/pop_hard_click.wav", "gain": -17, "max": 0.5, "note": "right in the middle" },
+    { "t": "word:desert#2", "file": "LIB:nature/river_birds.wav", "gain": -25, "max": 2.6, "fade": 1.2, "note": "payoff birds" }
+  ]
+}

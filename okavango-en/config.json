@@ -1,0 +1,13 @@
+{
+  "name": "okavango-en",
+  "lang": "en",
+  "engine": "file",
+  "voice": "am_liam",
+  "speed": 1.0,
+  "maxGap": 0.2,
+  "lead": 0.12,
+  "fps": 120,
+  "lufs": -14,
+  "true_peak": -1.5,
+  "look": "atlas"
+}
